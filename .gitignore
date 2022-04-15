@@ -196,6 +196,7 @@ pip-selfcheck.json
 
 # other files
 data_practical/
-user_trained_enet_model/cityscapes_data/
+user_trained_enet_model/cityscapes_data/images
+user_trained_enet_model/cityscapes_data/masks
 pretrained_enet_model/videos
 pretrained_enet_model/output
