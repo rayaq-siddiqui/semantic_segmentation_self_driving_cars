@@ -195,7 +195,8 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # other files
-data_practical/
+data_practical/train/
+data_practical/val/
 user_trained_enet_model/cityscapes_data/images
 user_trained_enet_model/cityscapes_data/masks
 pretrained_enet_model/videos
