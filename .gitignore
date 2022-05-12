@@ -201,3 +201,5 @@ user_trained_enet_model/cityscapes_data/images
 user_trained_enet_model/cityscapes_data/masks
 pretrained_enet_model/videos
 pretrained_enet_model/output
+segmentation/cityscapes_data/images
+segmentation/cityscapes_data/masks
